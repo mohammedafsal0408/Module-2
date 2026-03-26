@@ -162,3 +162,6 @@ else:
 ```
 ## Output
 <img width="593" height="114" alt="image" src="https://github.com/user-attachments/assets/fbc45cbf-8cf2-47de-947f-58a2e7d476f2" />
+
+## Result
+Thus, the python program was executed successfully.
